@@ -15,7 +15,7 @@
 
 <p align="center">
   🎓 <b>NIT Allahabad</b> • CPI <b>9.23</b> • 10th: <b>98.4%</b> • 12th: <b>94.25%</b> <br/>
-  🏆 JEE Mains: <b>99.84 percentile</b> • JEE Advanced: <b>AIR ~ 5796</b>
+  🏆 JEE Mains: <b>99.84 percentile</b> • JEE Advanced: <b>AIR ~ 6796</b>
 </p>
 
 ---
